@@ -17,6 +17,7 @@
 These tools will help you practice before your interview.
 
 - [Leetcode](https://leetcode.com/) - practice interview coding problems
+- [Pramp](https://www.pramp.com) - practice coding interviews with live video sessions
 
 
 ### Company Research
