@@ -38,6 +38,8 @@ These tools will help you find out what kind of compensation to ask for.
 - [PayScale](http://www.payscale.com/research/US/Country=United_States/Salary) - Salary data among jobs
 - [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm) - Find out what a job pays at a company
 - [Frontapp Compensation Calculator](https://comp.data.frontapp.com/) - Calculate how much your compensation package is really worth
+- [Nerdwallet Calculator](https://www.nerdwallet.com/cost-of-living-calculator) - Calculate how cost of living affects your salary
+- [SmartAsset Calculator](https://smartasset.com/taxes/income-taxes) - Estimate how much income tax you will be paying
 
 
 ## Contribute
